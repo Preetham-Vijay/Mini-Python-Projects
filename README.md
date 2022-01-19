@@ -12,3 +12,7 @@
 
 
 #Armstrong:- This project checks whether the input number is an armstrong number or not.
+
+
+
+#Palindrome:-This project checks whether the input string is a palindrome or not.
