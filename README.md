@@ -8,3 +8,7 @@
 
 
 #Prime-Factorial:- In this project a user inputs a number and receives all the prime factorial's of the input number as the output.
+
+
+
+#Armstrong Number:- This project checks whether the input number is an armstrong number or not.
