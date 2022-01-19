@@ -11,4 +11,4 @@
 
 
 
-#Armstrong Number:- This project checks whether the input number is an armstrong number or not.
+#Armstrong:- This project checks whether the input number is an armstrong number or not.
