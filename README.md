@@ -11,12 +11,16 @@
 
 
 
-#Armstrong:- This project checks whether the input number is an armstrong number or not.
+#Armstrong:- This project checks whether the input number is an Armstrong number or not.
 
 
 
-#Palindrome:- This project checks whether the input string is a palindrome or not.
+#Palindrome:- This project checks whether the input string is a Palindrome or not.
 
 
 
 #Fibonacci:- This project prints the fibonnaci sequence upto the inputted number.
+
+
+
+#Perfect:- This project checks whether the input number is a Perfect number or not.
